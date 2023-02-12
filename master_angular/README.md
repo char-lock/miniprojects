@@ -1,0 +1,2 @@
+### Master Angular
+This mini=project is the result of learning Angular alongside the Udemy course ["Angular - The Complete Guide (2023 Edition)"](https://www.udemy.com/course/the-complete-guide-to-angular-2/).
